@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://varsharammohan.github.io/sitemap.xml 
